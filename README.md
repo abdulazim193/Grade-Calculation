@@ -2,6 +2,8 @@
 
 A simple C program that calculates letter grade and grade points based on input marks. Supports both SSC/HSC grading system (5.00 scale) and University grading system (4.00 scale) of Bangladesh.
 
+Developed by ABDUL AZIM
+
 ## Features
 
 - Two grading systems: SSC/HSC and University
@@ -38,6 +40,9 @@ A simple C program that calculates letter grade and grade points based on input 
 | 40-44 | D | 2.00 |
 | 0-39 | F | 0.00 |
 
+## Screenshot
+
+![Compiled Code Output](image.png)
 ## How to Run
 
 ### Compile
