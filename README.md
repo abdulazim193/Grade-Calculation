@@ -1,46 +1,34 @@
 # Grade Calculator - Bangladesh SSC/HSC & University System
 
-A simple C program that calculates letter grade and grade points based on input marks. Supports both SSC/HSC grading system (5.00 scale) and University grading system (4.00 scale) of Bangladesh.
+A web-based grade calculator that works in any browser. Built with HTML, CSS, and JavaScript.
+
 
 ## Features
 
 - Two grading systems: SSC/HSC and University
-- Takes marks input (0-100)
-- Displays Letter Grade and Grade Points
-- Input validation for invalid marks
+- Real-time grade calculation
+- Mobile responsive design
+- No installation required
 
-## Grading Tables
+## How to Use
 
-### SSC/HSC System
+1. Select exam type (SSC/HSC or University)
+2. Enter your marks (0-100)
+3. Click "Calculate Grade"
+4. View your letter grade and grade points
 
-| Marks Range | Letter Grade | Grade Points |
-|-------------|--------------|--------------|
-| 80-100 | A+ | 5.00 |
-| 70-79 | A | 4.00 |
-| 60-69 | A- | 3.50 |
-| 50-59 | B | 3.00 |
-| 40-49 | C | 2.00 |
-| 33-39 | D | 1.00 |
-| 0-32 | F | 0.00 |
+## Local Development
 
-### University System (Presidency University)
+Simply open `index.html` in any web browser.
 
-| Marks Range | Letter Grade | Grade Points |
-|-------------|--------------|--------------|
-| 80-100 | A+ | 4.00 |
-| 75-79 | A | 3.75 |
-| 70-74 | A- | 3.50 |
-| 65-69 | B+ | 3.25 |
-| 60-64 | B | 3.00 |
-| 55-59 | B- | 2.75 |
-| 50-54 | C+ | 2.50 |
-| 45-49 | C | 2.25 |
-| 40-44 | D | 2.00 |
-| 0-39 | F | 0.00 |
+## Screenshot
 
-## How to Run
+![Compiled Code Output](Compiled code.jpg)
 
-### Compile
+## Author
 
-```bash
-gcc Grading.c -o Grading
+Student Project for University Admission
+
+## License
+
+MIT License
