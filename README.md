@@ -1,4 +1,4 @@
-# Grade Calculator - Bangladesh SSC/HSC & University System
+# Grade Calculator - SSC/HSC & University System
 
 A simple C program that calculates letter grade and grade points based on input marks. Supports both SSC/HSC grading system (5.00 scale) and University grading system (4.00 scale) of Bangladesh.
 
